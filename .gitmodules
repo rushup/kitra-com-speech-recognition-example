@@ -1,0 +1,3 @@
+[submodule "kitra-com-lib"]
+	path = kitra-com-lib
+	url = https://github.com/rushup/kitra-com-lib.git

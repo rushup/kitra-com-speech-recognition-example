@@ -1,0 +1,4 @@
+*.user
+
+private-res/*
+private-res
